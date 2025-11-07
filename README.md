@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div>
-  <img src="C:\Users\zhouhuixu\Pictures\image\pic1.jpg" width:400px>
+  <img src="https://github.com/jfj-sys/jfj-sys.github.io/blob/main/images/pic1.jpg" width:100px>
 </div>
 
 - 🌱 学习前端中...
