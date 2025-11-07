@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div width:50px height:50px>
+<div  height:"50px" width:"50px">
   <img src="https://github.com/jfj-sys/jfj-sys.github.io/blob/main/images/pic1.jpg">
 </div>
 
