@@ -1,6 +1,6 @@
 ## Hi there 👋
-<div>
-  <img src="https://github.com/jfj-sys/jfj-sys.github.io/blob/main/images/pic1.jpg" width:100px>
+<div width:50px height:50px>
+  <img src="https://github.com/jfj-sys/jfj-sys.github.io/blob/main/images/pic1.jpg">
 </div>
 
 - 🌱 学习前端中...
